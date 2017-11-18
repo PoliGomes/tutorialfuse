@@ -1,0 +1,12 @@
+build/Android/Preview/cache/ux11/MainView.g.uno
+build/Android/Preview/cache/ux11/hikr.Button.g.uno
+build/Android/Preview/cache/ux11/hikr.Page.g.uno
+build/Android/Preview/cache/ux11/hikr.Text.g.uno
+build/Android/Preview/cache/ux11/hikr.TextBox.g.uno
+build/Android/Preview/cache/ux11/hikr.TextView.g.uno
+build/Android/Preview/cache/ux11/EditHikePage.g.uno
+build/Android/Preview/cache/ux11/TitleText.g.uno
+build/Android/Preview/cache/ux11/HomePage.g.uno
+build/Android/Preview/cache/ux11/Separator.g.uno
+build/Android/Preview/cache/ux11/SplashPage.g.uno
+build/Android/Preview/cache/ux11/hikr.unoproj.g.uno
